@@ -63,7 +63,7 @@ The dataset is stored in Excel format and includes the following attributes:
 - Filters  
 - Data Cleaning  
 - Dashboard Design  
-- **GitHub**
+- GitHub
 
 ---
 
