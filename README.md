@@ -46,7 +46,7 @@ The primary goals of this project are:
 
 The dataset is stored in Excel format and includes the following attributes:
 
-- Order Date (Month & Year)  
+- Order Date  
 - Retailer  
 - Region  
 - Product Category  
