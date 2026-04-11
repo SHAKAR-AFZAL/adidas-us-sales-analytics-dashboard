@@ -32,7 +32,7 @@ The dashboard highlights:
 ## Project Objective
 The primary goals of this project are:
 
-- Analyze overall sales performance  
+- Analyzes the overall sales performance  
 - Identify top performing retailers  
 - Evaluate regional sales distribution  
 - Analyze product category trends  
