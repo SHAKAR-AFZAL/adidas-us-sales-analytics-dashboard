@@ -87,7 +87,7 @@ The dataset is stored in Excel format and includes the following attributes:
 ## Key Insights
 
 ### Sales Trend
-- Sales show strong growth from **2020 to 2021**  
+- Sales shows strong growth from **2020 to 2021**  
 - Peak performance observed in mid to late 2021  
 - Seasonal trends indicate higher sales in later months  
 
