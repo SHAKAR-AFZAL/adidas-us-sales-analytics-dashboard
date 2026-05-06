@@ -94,7 +94,7 @@ The dataset is stored in Excel format and includes the following attributes:
 ### Retailer Performance
 - **West Gear** is the top-performing retailer  
 - **Foot Locker** and **Sports Direct** contribute significantly  
-- **Amazon** and **Walmart** show lower sales comparatively  
+- **Amazon** and **Walmart** shows the lower sales comparatively  
 
 ### Regional Analysis
 - **West and Northeast regions** generate higher sales  
