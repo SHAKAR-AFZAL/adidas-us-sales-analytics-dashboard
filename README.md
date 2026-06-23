@@ -19,7 +19,7 @@ _Analyzing the Adidas retail sales performance across the United States to uncov
 ---
 
 ## Overview
-This project focuses on analyzing **Adidas US sales data** to evaluate performance across retailers, regions, products, and sales channels. An interactive Excel dashboard was developed to transform raw sales data into meaningful insights for business analysis.
+This project focuses on analyzing the  **Adidas US sales data** to evaluate performance across retailers, regions, products, and sales channels. An interactive Excel dashboard was developed to transform raw sales data into meaningful insights for business analysis.
 
 The dashboard highlights:
 - Sales trends over time  
