@@ -132,7 +132,7 @@ The Adidas US sales dashboard reveals clear patterns across **retailers, regions
 
 Key takeaways:
 - Strong sales growth in 2021  
-- In-store remains dominant, but online is growing  
+- In store remains dominant, but online is growing  
 - Regional differences highlight expansion opportunities  
   
 ---
