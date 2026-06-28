@@ -118,7 +118,7 @@ The dataset is stored in Excel format and includes the following attributes:
 
 The Excel dashboard displays:
 - Monthly sales trends  
-- Retailer-wise comparison  
+- Retailer wise comparison  
 - Region-wise sales distribution  
 - Sales method breakdown  
 - Interactive filtering for deeper analysis
