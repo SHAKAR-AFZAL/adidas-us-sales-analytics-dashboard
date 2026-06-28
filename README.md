@@ -36,7 +36,7 @@ The primary goals of this project are:
 - Identify top performing retailers  
 - Evaluate regional sales distribution  
 - Analyze product category trends  
-- Compare sales methods (In-store, Online, Outlet)  
+- Compare sales methods (In store, Online, Outlet)  
 - Provide interactive, data-driven insights  
 
 ---
