@@ -1,4 +1,4 @@
-# Adidas Sales Analysis Dashboard 
+# Adidas Sales Analysis
 
 _Analyzing the Adidas retail sales performance across the United States to uncover the trends, regional patterns, and channel insights using Microsoft Excel._
 
