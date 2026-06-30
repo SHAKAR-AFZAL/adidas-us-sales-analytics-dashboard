@@ -109,7 +109,7 @@ The dataset is stored in Excel format and includes the following attributes:
 ### Product Insights
 - Certain product categories outperform consistently  
 - Demand varies across regions and filters  
-- Product-level analysis supports better decision-making  
+- Product level analysis supports better decision-making  
 
 ---
 
