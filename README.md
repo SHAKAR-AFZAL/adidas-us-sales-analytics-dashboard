@@ -117,7 +117,7 @@ The dataset is stored in Excel format and includes the following attributes:
 <a href="https://github.com/SHAKAR-AFZAL/adidas-us-sales-analytics-dashboard-excel/blob/main/Dashboard%20Picture.png">📊 Dashboard Picture</a>
 
 The Excel dashboard displays:
-- Monthly Sales trends  
+- Monthly Sales Trends  
 - Retailer wise comparison  
 - Region wise sales distribution  
 - Sales method breakdown  
