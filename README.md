@@ -70,7 +70,7 @@ The dataset is stored in Excel format and includes the following attributes:
 ## Dashboard Features
 
 **Interactive Slicers**
-- Year Selection (2020, 2021)  
+- Year Selection (2020,2021)  
 - Retailer Filter  
 - Product Category Filter  
 - Region Filter  
