@@ -92,7 +92,7 @@ The dataset is stored in Excel format and includes the following attributes:
 - Seasonal trends indicate higher sales in later months  
 
 ### Retailer Performance
-- **West Gear** is thtop performing retailer  
+- **West Gear** is t top performing retailer  
 - **Foot Locker** and **Sports Direct** contribute significantly  
 - **Amazon** and **Walmart** shows the lower sales comparatively  
 
