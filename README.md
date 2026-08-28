@@ -1,6 +1,6 @@
 # Adidas Sales Analysis
 
-_Analyzing the Adidas retail sales performance across the United States to uncover the trends, regional patterns, and the channel insights using the Microsoft Excel._
+_Analyzing the Adidas retail sales performance across United States to uncover the trends, regional patterns, and the channel insights using the Microsoft Excel._
 
 ---
 
