@@ -89,7 +89,7 @@ The dataset is stored in Excel format and includes the following attributes:
 ### Sales Trend
 - Sales shows strong growth from **2020 to 2021**  
 - Peak performance observed in mid to late 2021  
-- Seasonal trends indicate higher sales in later months  
+- Seasonal Trends indicate higher sales in later months  
 
 ### Retailer Performance
 - **West Gear** is top performing retailer  
