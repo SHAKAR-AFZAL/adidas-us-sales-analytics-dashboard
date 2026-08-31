@@ -99,7 +99,7 @@ The dataset is stored in Excel format and includes the following attributes:
 ### Regional Analysis
 - **West and Northeast regions** generate higher sales  
 - Some regions show lower contribution, indicating growth potential  
-- Geographic insights help identify market opportunities  
+- Geographic insights help identify Market opportunities  
 
 ### Sales Method
 - **In-store sales dominate** overall revenue  
