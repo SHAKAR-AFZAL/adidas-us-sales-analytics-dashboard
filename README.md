@@ -128,7 +128,7 @@ The Excel dashboard displays:
 ---
 
 ## Conclusion
-The Adidas US sales dashboard reveals clear patterns across **retailers, regions, and sales channels**.
+The Adidas US sales dashboard reveals clear patterns across **retailers, regions,and sales channels**.
 
 Key takeaways:
 - Strong Sales growth in 2021  
